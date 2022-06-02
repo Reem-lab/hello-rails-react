@@ -50,6 +50,12 @@ Next, use this command to create the databases:
 rails db:create
 ```
 
+To run the seeds file
+
+```
+rails db:seed
+```
+
 ## Usage
 
 Finally, use the following command to initialize the live server:
